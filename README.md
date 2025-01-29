@@ -1,0 +1,1 @@
+This repository contains a Python function that calculates the factorial of a number.  The function works correctly for non-negative integers, but it throws a RecursionError when a negative integer is passed as an argument. A solution is provided to address this issue by adding input validation.
